@@ -1,2 +1,2 @@
 # generate_ena_json
-generate_json_for_ena
+scripts for compling reads into a json format that can be easily submitted to ena
